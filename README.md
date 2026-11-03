@@ -1,10 +1,10 @@
-# Phototropic Garden
+# Noctiflora
 
 A bioluminescent garden that bends, branches and blooms toward the light you move across the screen.
 
-![Phototropic Garden demo](docs/demo.gif)
+![Noctiflora demo](docs/demo.gif)
 
-**Live demo: https://jortegadmr.github.io/phototropic-garden/**
+**Live demo: https://jortegadmr.github.io/noctiflora/**
 
 ![Screenshot](docs/screenshot.png)
 
