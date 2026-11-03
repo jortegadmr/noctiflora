@@ -1,0 +1,17 @@
+{
+  "name": "phototropic-garden",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A bioluminescent garden that grows toward the light you move across the screen.",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3",
+    "vite": "^5.4.11"
+  }
+}
